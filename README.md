@@ -16,6 +16,7 @@ Implementation steps:
    
    - Add the return orders column to returns sheet and using an if statement to convert it from yes or no to 0 or 1 to sum all returns.
 
+
 4) Use power bi to visualize the data
    
    - Map of sales by region.
