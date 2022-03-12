@@ -9,8 +9,6 @@ Implementation steps:
 2) Analyzing the tables and relations.
 
 3) Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions). 
-
-
 4) Use power bi to visualize the data
    
    - Map of sales by region.
