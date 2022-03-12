@@ -9,7 +9,13 @@ Implementation steps:
 2) Analyzing the tables and relations.
 
 3) Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions). 
-4) Use power bi to visualize the data
+    
+   
+   - Add two columns Delivery days (shipped date - order date) and year from date to orders sheet.
+    
+   
+   - Add the return orders column to returns sheet and using an if statement to convert it from yes or no to 0 or 1 to sum all returns.
+5) Use power bi to visualize the data
    
    - Map of sales by region.
    
