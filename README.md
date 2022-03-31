@@ -10,13 +10,13 @@ Implementation steps:
 
 3) Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions):
 
-Add two columns Delivery days (shipped date - order date) and year from date to orders sheet.  
-Add the return orders column to returns sheet and using an if statement to convert it from yes or no to 0 or 1 to sum all returns.
+- Add two columns Delivery days (shipped date - order date) and year from date to orders sheet.  
+- Add the return orders column to returns sheet and using an if statement to convert it from yes or no to 0 or 1 to sum all returns.
 
 4) Use power bi to visualize the data:
 
-Map of sales by region.    
-Pie chart of sales by market.    
-Pie chart of sales by segment.    
-Stacked bar chart of the top 6 profit and loss products    
-Stacked bar chart of the top 10 clients.
+- Map of sales by region.    
+- Pie chart of sales by market.    
+- Pie chart of sales by segment.    
+- Stacked bar chart of the top 6 profit and loss products    
+- Stacked bar chart of the top 10 clients.
